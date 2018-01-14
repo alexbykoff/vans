@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "03e6a69c-ce07-404f-9417-e07e27db362f",
+            "Value": {
+                "id": "e786a52a-503c-4165-849e-9f5ae67367be",
+                "resourcePath": "views\\03e6a69c-ce07-404f-9417-e07e27db362f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0b02b14b-4c94-4bbb-9fa2-4d28261ba47c",
+            "Value": {
+                "id": "b03f014a-7ce2-43f1-8c16-b0791fdf3474",
+                "resourcePath": "objects\\obj_van\\obj_van.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0dbe2407-6ae3-4e82-ad60-a227416e1d46",
             "Value": {
                 "id": "6d0beed9-acc9-42e6-9503-2f807709c97f",
@@ -55,6 +71,14 @@
             }
         },
         {
+            "Key": "21c1be2a-36e9-43ef-8b32-56dbcaa33a4e",
+            "Value": {
+                "id": "da24cada-0b25-4758-bd03-815add07832f",
+                "resourcePath": "sprites\\spr_van\\spr_van.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29aa132d-e7dd-464d-8359-6b8f90c9a11a",
             "Value": {
                 "id": "8ec54acf-1369-487e-9407-67388d051d3d",
@@ -68,6 +92,14 @@
                 "id": "787d5d13-50bf-4267-bd68-95fe43d323d6",
                 "resourcePath": "views\\3c955d0f-75f4-49f5-8075-3edf15ec3be1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3cce56d6-970b-4d94-852f-caa2a3f22e7b",
+            "Value": {
+                "id": "b1239779-2703-42c5-a4e1-9f1a13661fb1",
+                "resourcePath": "sprites\\bg\\bg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -162,7 +194,7 @@
             "Key": "edf3ec20-e390-45d3-bba6-1e3f3c4c3f8d",
             "Value": {
                 "id": "ee791475-a57e-4523-a301-750983ea4667",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\road\\road.yy",
                 "resourceType": "GMRoom"
             }
         },
