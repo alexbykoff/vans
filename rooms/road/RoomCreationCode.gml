@@ -12,6 +12,16 @@ for(var i = 0; i < 10; i += 1) {
 	/// @DnDArgument : "objectid" "obj_asphalt"
 	/// @DnDSaveInfo : "objectid" "0198b548-69f9-4f8d-a68f-8c96027f594f"
 	instance_create_layer(256 * i, 480, "Instances", obj_asphalt);
+
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 365CF3BB
+	/// @DnDParent : 6DB6C7D9
+	/// @DnDArgument : "xpos" "256*i"
+	/// @DnDArgument : "ypos" "256"
+	/// @DnDArgument : "objectid" "obj_hills"
+	/// @DnDSaveInfo : "objectid" "2c153b77-eec8-48be-b93a-daf9bf4586d9"
+	instance_create_layer(256*i, 256, "Instances", obj_hills);
 }
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
